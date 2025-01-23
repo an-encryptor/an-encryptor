@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an-encryptor&label=Profile%20views&color=0e75b6&style=flat" alt="an-encryptor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=an-encryptor" alt="an-encryptor" /></a> </p>
-
 - 🔭 I’m currently working on **Open AI agent**
 
 - 🌱 I’m currently learning **AI agents, Spike Neural Networks**
