@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=an-encryptor&show_icons=true&locale=en&layout=compact" alt="an-encryptor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an-encryptor&show_icons=true&locale=en" alt="an-encryptor" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an-encryptor&" alt="an-encryptor" /></p>
