@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/an-encryptor](https://github.com/an-encryptor)
 
-- 💬 Ask me about **Python, Power Bi, LLM model, AI integrations and API's**
+- 💬 Ask me about **Python, Power Bi, LLM model, Javascript, AI integrations and API's**
 
 - 📫 How to reach me **ijain01012002@gmail.com**
 
